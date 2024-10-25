@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I´m a passionate software and full-stack developer from Argentina 🇦🇷!</p>
+<p align="left">I´m a passionate software and full-stack developer from Argentina!</p>
 
 ###
 
