@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently doing an university degree in programming at UTN (Universidad tecnológica nacional).<br>📚 I'm currently working at TESYS S.R.L. as a full-stack developer, software developer and database administrator!<br>🎯 I aim to keep growing and evolving as a developer, deepening my knowledge and enhancing my technical skills.<br>🎲 I have experience in:<br>~ Software development with Python and C# .NET framework<br>~ WebScrapping software development with Python.<br>~ Web development with Typescript, Javascript, NodeJS, HTML, CSS, ANGULAR framework.</p>
+<p align="left">📚 I have an university degree in programming at UTN (Universidad tecnológica nacional).<br>✨ I'm currently working at TESYS S.R.L. as a full-stack developer, software developer and database administrator!<br>🎯 I aim to keep growing and evolving as a developer, deepening my knowledge and enhancing my technical skills.<br>🎲 I have experience in:<br>~ Software development with Python and C# .NET framework<br>~ WebScrapping software development with Python.<br>~ Web development with Typescript, Javascript, NodeJS, HTML, CSS, ANGULAR framework.</p>
 
 ###
 
